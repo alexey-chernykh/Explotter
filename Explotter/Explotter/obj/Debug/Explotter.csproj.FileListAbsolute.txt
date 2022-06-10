@@ -1,0 +1,11 @@
+C:\Users\starg\source\repos\Explotter\Explotter\bin\Debug\Explotter.exe.config
+C:\Users\starg\source\repos\Explotter\Explotter\bin\Debug\Explotter.exe
+C:\Users\starg\source\repos\Explotter\Explotter\bin\Debug\Explotter.pdb
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.csproj.AssemblyReference.cache
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.MainForm.resources
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.Properties.Resources.resources
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.csproj.GenerateResource.cache
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.csproj.CoreCompileInputs.cache
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.exe
+C:\Users\starg\source\repos\Explotter\Explotter\obj\Debug\Explotter.pdb
+C:\Users\starg\source\repos\Explotter\Explotter\bin\Debug\Resources\desktop-computer.png
